@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Crypto News Summarizer",
+  "description": "Summarize and tag crypto articles with sentiment.",
+  "version": "1.0",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icons": {
+      "128": "icon128.png"
+    }
+  }
+}
